@@ -3,7 +3,7 @@
   "description":  "Mambascript code generator forked from Michael Ficarra cscodegen",
   "keywords":     ["mambascript","coffeescript", "generator", "compiler", "formatter", "AST"],
   "author":       "Arthur Bernier Jr",
-  "version":      "0.1.0",
+  "version":      "0.1.1",
   "licenses":     [{
     "type":       "3-clause BSD",
     "url":        "https://raw.github.com/arthurbernierjr/mscodegen/master/LICENSE"
@@ -22,6 +22,6 @@
   "bugs":         "https://github.com/arthurbernierjr/mscodegen/issues",
   "repository":   {
     "type": "git",
-    "url": "git://github.com/arthurbernierjr/cscodegen.git"
+    "url": "git://github.com/arthurbernierjr/mscodegen.git"
   }
 }
