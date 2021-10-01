@@ -1,5 +1,5 @@
 {
-  "name":         "mscodegen",
+  "name":         "mambacodegen",
   "description":  "Mambascript code generator forked from Michael Ficarra cscodegen",
   "keywords":     ["mambascript","coffeescript", "generator", "compiler", "formatter", "AST"],
   "author":       "Arthur Bernier Jr",
